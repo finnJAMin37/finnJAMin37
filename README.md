@@ -7,7 +7,7 @@
 
 - I’m currently working on creating various individual projects and experimenting
 - I’m currently learning python, HTML, blender, and godot
-- I’m looking to collaborate.
+- I’m looking to collaborate
 - How to reach me: finnleckrone@gmail.com
 - Fun fact: Also a dawg on the track... 1600m 4:23
 
